@@ -1,0 +1,1142 @@
+[
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "argparse,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse.",
+        "description": "argparse.",
+        "detail": "argparse.",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Annotated",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "conint",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "conint",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "FastMCP",
+        "importPath": "mcp.server.fastmcp",
+        "description": "mcp.server.fastmcp",
+        "isExtraImport": true,
+        "detail": "mcp.server.fastmcp",
+        "documentation": {}
+    },
+    {
+        "label": "FastMCP",
+        "importPath": "mcp.server.fastmcp",
+        "description": "mcp.server.fastmcp",
+        "isExtraImport": true,
+        "detail": "mcp.server.fastmcp",
+        "documentation": {}
+    },
+    {
+        "label": "FastMCP",
+        "importPath": "mcp.server.fastmcp",
+        "description": "mcp.server.fastmcp",
+        "isExtraImport": true,
+        "detail": "mcp.server.fastmcp",
+        "documentation": {}
+    },
+    {
+        "label": "FastMCP",
+        "importPath": "fastmcp",
+        "description": "fastmcp",
+        "isExtraImport": true,
+        "detail": "fastmcp",
+        "documentation": {}
+    },
+    {
+        "label": "FastMCP",
+        "importPath": "fastmcp",
+        "description": "fastmcp",
+        "isExtraImport": true,
+        "detail": "fastmcp",
+        "documentation": {}
+    },
+    {
+        "label": "FastMCP",
+        "importPath": "fastmcp",
+        "description": "fastmcp",
+        "isExtraImport": true,
+        "detail": "fastmcp",
+        "documentation": {}
+    },
+    {
+        "label": "FastMCP",
+        "importPath": "fastmcp",
+        "description": "fastmcp",
+        "isExtraImport": true,
+        "detail": "fastmcp",
+        "documentation": {}
+    },
+    {
+        "label": "FastMCP",
+        "importPath": "fastmcp",
+        "description": "fastmcp",
+        "isExtraImport": true,
+        "detail": "fastmcp",
+        "documentation": {}
+    },
+    {
+        "label": "httpx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "httpx",
+        "description": "httpx",
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "markdownify",
+        "importPath": "markdownify",
+        "description": "markdownify",
+        "isExtraImport": true,
+        "detail": "markdownify",
+        "documentation": {}
+    },
+    {
+        "label": "base64,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64.",
+        "description": "base64.",
+        "detail": "base64.",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "sympy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sympy",
+        "description": "sympy",
+        "detail": "sympy",
+        "documentation": {}
+    },
+    {
+        "label": "sqlite3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlite3",
+        "description": "sqlite3",
+        "detail": "sqlite3",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "demo..venv.bin.activate_this",
+        "description": "demo..venv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"mcp-demo\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "demo..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "demo..venv.bin.activate_this",
+        "description": "demo..venv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"mcp-demo\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": "demo..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "demo..venv.bin.activate_this",
+        "description": "demo..venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"mcp-demo\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "demo..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "demo..venv.bin.activate_this",
+        "description": "demo..venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"mcp-demo\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "demo..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "demo..venv.bin.activate_this",
+        "description": "demo..venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"mcp-demo\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "demo..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "demo..venv.bin.activate_this",
+        "description": "demo..venv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "demo..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "demo..venv.bin.activate_this",
+        "description": "demo..venv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "demo..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "demo..venv.bin.activate_this",
+        "description": "demo..venv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "demo..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "demo..venv.bin.activate_this",
+        "description": "demo..venv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "demo..venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "open_text",
+        "kind": 2,
+        "importPath": "demo.data.import",
+        "description": "demo.data.import",
+        "peekOfCode": "def open_text(path: str):\n    if path.endswith(\".gz\"):\n        return gzip.open(path, \"rt\", encoding=\"utf-8\", errors=\"ignore\")\n    return open(path, \"r\", encoding=\"utf-8\", errors=\"ignore\")\ndef sanitize(name: str) -> str:\n    s = name.strip()\n    if s.startswith(\"#\"):\n        s = s[1:]\n    s = s.strip()\n    s = re.sub(r\"[^A-Za-z0-9_]\", \"_\", s)",
+        "detail": "demo.data.import",
+        "documentation": {}
+    },
+    {
+        "label": "sanitize",
+        "kind": 2,
+        "importPath": "demo.data.import",
+        "description": "demo.data.import",
+        "peekOfCode": "def sanitize(name: str) -> str:\n    s = name.strip()\n    if s.startswith(\"#\"):\n        s = s[1:]\n    s = s.strip()\n    s = re.sub(r\"[^A-Za-z0-9_]\", \"_\", s)\n    if re.match(r\"^\\d\", s):\n        s = \"_\" + s\n    return s or \"col\"\ndef detect_header_and_data_start(lines: List[str]) -> (List[str], int):",
+        "detail": "demo.data.import",
+        "documentation": {}
+    },
+    {
+        "label": "detect_header_and_data_start",
+        "kind": 2,
+        "importPath": "demo.data.import",
+        "description": "demo.data.import",
+        "peekOfCode": "def detect_header_and_data_start(lines: List[str]) -> (List[str], int):\n    header_idx = None\n    header_cols = None\n    for i, line in enumerate(lines):\n        if line.lstrip().startswith(\"# STN\"):\n            # Gebruik de hele regel na '#'\n            raw = line.lstrip()[1:].strip()\n            header_cols = [c.strip() for c in raw.split(\",\") if c.strip()]\n            header_idx = i\n            break",
+        "detail": "demo.data.import",
+        "documentation": {}
+    },
+    {
+        "label": "parse_value",
+        "kind": 2,
+        "importPath": "demo.data.import",
+        "description": "demo.data.import",
+        "peekOfCode": "def parse_value(cell: str, nullify_neg9999: bool) -> Optional[int]:\n    cell = cell.strip()\n    if cell == \"\":\n        return None\n    try:\n        val = int(cell)\n        if nullify_neg9999 and val == -9999:\n            return None\n        return val\n    except ValueError:",
+        "detail": "demo.data.import",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "demo.data.import",
+        "description": "demo.data.import",
+        "peekOfCode": "def main():\n    ap = argparse.ArgumentParser(description=\"Import KNMI etmgeg_*.txt naar SQLite.\")\n    ap.add_argument(\"input_txt\", help=\"Pad naar KNMI TXT (evt. .gz).\")\n    ap.add_argument(\"-o\", \"--output-db\", default=\"knmi_etmgeg.sqlite\", help=\"Uitvoer .sqlite bestand.\")\n    ap.add_argument(\"-t\", \"--table\", default=\"etmgeg\", help=\"Tabelnaam.\")\n    ap.add_argument(\"--drop-table\", action=\"store_true\", help=\"Bestaande tabel droppen als die bestaat.\")\n    ap.add_argument(\"--nullify-neg9999\", action=\"store_true\", help=\"Zet -9999 om naar NULL.\")\n    ap.add_argument(\"--no-index\", action=\"store_true\", help=\"Sla indexen aanmaken over.\")\n    ap.add_argument(\"--batch\", type=int, default=5000, help=\"Batchgrootte voor inserts.\")\n    args = ap.parse_args()",
+        "detail": "demo.data.import",
+        "documentation": {}
+    },
+    {
+        "label": "GameConfig",
+        "kind": 6,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "class GameConfig(BaseModel):\n    starting_credits: conint(ge=0) = Field(50, description=\"Starttegoed\")\n    num_decks: conint(ge=1, le=8) = Field(4, description=\"Aantal decks in de shoe\")\n    bj_pay_n: conint(ge=1) = Field(3, description=\"Blackjack payout numerator (3)\")\n    bj_pay_d: conint(ge=1) = Field(2, description=\"Blackjack payout denominator (2)\")\n    dealer_hits_soft_17: bool = Field(False, description=\"Dealer hit op soft 17 (False=stand)\")\nclass RoundResult(BaseModel):\n    outcome: Optional[str] = None  # \"player_blackjack\", \"player_win\", \"dealer_win\", \"push\", \"player_bust\", \"dealer_bust\", \"dealer_blackjack\"\n    payout: int = 0  # netto verandering voor speler (exclusief teruggegeven inzet bij push)\nclass GameState(BaseModel):",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "RoundResult",
+        "kind": 6,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "class RoundResult(BaseModel):\n    outcome: Optional[str] = None  # \"player_blackjack\", \"player_win\", \"dealer_win\", \"push\", \"player_bust\", \"dealer_bust\", \"dealer_blackjack\"\n    payout: int = 0  # netto verandering voor speler (exclusief teruggegeven inzet bij push)\nclass GameState(BaseModel):\n    credits: int = 0\n    current_bet: int = 0\n    shoe: List[str] = Field(default_factory=list)\n    discard: List[str] = Field(default_factory=list)\n    player_hand: List[str] = Field(default_factory=list)\n    dealer_hand: List[str] = Field(default_factory=list)  # [0]=upcard, [1]=hole",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "GameState",
+        "kind": 6,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "class GameState(BaseModel):\n    credits: int = 0\n    current_bet: int = 0\n    shoe: List[str] = Field(default_factory=list)\n    discard: List[str] = Field(default_factory=list)\n    player_hand: List[str] = Field(default_factory=list)\n    dealer_hand: List[str] = Field(default_factory=list)  # [0]=upcard, [1]=hole\n    in_round: bool = False\n    can_double: bool = False\n    config: GameConfig = Field(default_factory=GameConfig)",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "InitGameInput",
+        "kind": 6,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "class InitGameInput(GameConfig):\n    pass\nclass AddCreditsInput(BaseModel):\n    amount: conint(gt=0) = Field(..., description=\"Credits toevoegen (>0)\")\nclass PlaceBetInput(BaseModel):\n    amount: conint(gt=0) = Field(..., description=\"Inzet (>0)\")\nclass ActionResult(BaseModel):\n    state: dict\n    message: str\n# ----------------------------",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "AddCreditsInput",
+        "kind": 6,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "class AddCreditsInput(BaseModel):\n    amount: conint(gt=0) = Field(..., description=\"Credits toevoegen (>0)\")\nclass PlaceBetInput(BaseModel):\n    amount: conint(gt=0) = Field(..., description=\"Inzet (>0)\")\nclass ActionResult(BaseModel):\n    state: dict\n    message: str\n# ----------------------------\n# Kernlogica\n# ----------------------------",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "PlaceBetInput",
+        "kind": 6,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "class PlaceBetInput(BaseModel):\n    amount: conint(gt=0) = Field(..., description=\"Inzet (>0)\")\nclass ActionResult(BaseModel):\n    state: dict\n    message: str\n# ----------------------------\n# Kernlogica\n# ----------------------------\ndef ensure_shoe():\n    # Als de shoe te klein wordt, schud bij met discard of bouw nieuwe shoe",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "ActionResult",
+        "kind": 6,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "class ActionResult(BaseModel):\n    state: dict\n    message: str\n# ----------------------------\n# Kernlogica\n# ----------------------------\ndef ensure_shoe():\n    # Als de shoe te klein wordt, schud bij met discard of bouw nieuwe shoe\n    if len(STATE.shoe) < 15:\n        STATE.shoe += STATE.discard",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "build_shoe",
+        "kind": 2,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "def build_shoe(num_decks: int) -> List[str]:\n    deck = [f\"{r}{s}\" for r in RANKS for s in SUITS]\n    shoe = deck * num_decks\n    random.shuffle(shoe)\n    return shoe\ndef hand_value(cards: List[str]) -> Tuple[int, bool]:\n    \"\"\"Return (best_value, is_soft). Aces kunnen 1 of 11 zijn.\"\"\"\n    values = []\n    aces = 0\n    for c in cards:",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "hand_value",
+        "kind": 2,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "def hand_value(cards: List[str]) -> Tuple[int, bool]:\n    \"\"\"Return (best_value, is_soft). Aces kunnen 1 of 11 zijn.\"\"\"\n    values = []\n    aces = 0\n    for c in cards:\n        r = c[:-1] or c[0]  # \"10\" vs \"A\"\n        if r in [\"J\", \"Q\", \"K\"]:\n            v = 10\n        elif r == \"A\":\n            v = 11",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "is_blackjack",
+        "kind": 2,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "def is_blackjack(cards: List[str]) -> bool:\n    if len(cards) != 2:\n        return False\n    val, _ = hand_value(cards)\n    ranks = {cards[0][:-1] or cards[0][0], cards[1][:-1] or cards[1][0]}\n    return val == 21 and (\"A\" in ranks)\n# ----------------------------\n# Config & State\n# ----------------------------\nclass GameConfig(BaseModel):",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "ensure_shoe",
+        "kind": 2,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "def ensure_shoe():\n    # Als de shoe te klein wordt, schud bij met discard of bouw nieuwe shoe\n    if len(STATE.shoe) < 15:\n        STATE.shoe += STATE.discard\n        STATE.discard = []\n        random.shuffle(STATE.shoe)\n        if not STATE.shoe:\n            STATE.shoe = build_shoe(STATE.config.num_decks)\ndef deal_card(to: List[str]):\n    ensure_shoe()",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "deal_card",
+        "kind": 2,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "def deal_card(to: List[str]):\n    ensure_shoe()\n    card = STATE.shoe.pop()\n    to.append(card)\ndef settle_round_with_payout(result: RoundResult) -> RoundResult:\n    STATE.last_result = result\n    return settle_round(result.outcome or \"round_end\")\ndef settle_round(reason: str) -> RoundResult:\n    \"\"\"Sluit ronde af, onthoud definitieve handen voor reveal, gooi daarna naar discard.\"\"\"\n    result = STATE.last_result or RoundResult(outcome=reason, payout=0)",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "settle_round_with_payout",
+        "kind": 2,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "def settle_round_with_payout(result: RoundResult) -> RoundResult:\n    STATE.last_result = result\n    return settle_round(result.outcome or \"round_end\")\ndef settle_round(reason: str) -> RoundResult:\n    \"\"\"Sluit ronde af, onthoud definitieve handen voor reveal, gooi daarna naar discard.\"\"\"\n    result = STATE.last_result or RoundResult(outcome=reason, payout=0)\n    # Sla definitieve handen op vóór we ze legen (reveal werkt hierdoor correct)\n    STATE.last_final_player_hand = STATE.player_hand.copy()\n    STATE.last_final_dealer_hand = STATE.dealer_hand.copy()\n    # Kaarten naar discard + ronde sluiten",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "settle_round",
+        "kind": 2,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "def settle_round(reason: str) -> RoundResult:\n    \"\"\"Sluit ronde af, onthoud definitieve handen voor reveal, gooi daarna naar discard.\"\"\"\n    result = STATE.last_result or RoundResult(outcome=reason, payout=0)\n    # Sla definitieve handen op vóór we ze legen (reveal werkt hierdoor correct)\n    STATE.last_final_player_hand = STATE.player_hand.copy()\n    STATE.last_final_dealer_hand = STATE.dealer_hand.copy()\n    # Kaarten naar discard + ronde sluiten\n    STATE.discard.extend(STATE.player_hand)\n    STATE.discard.extend(STATE.dealer_hand)\n    STATE.player_hand.clear()",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "dealer_play",
+        "kind": 2,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "def dealer_play():\n    \"\"\"Dealer speelt; standaard stand op 17 inclusief soft (tenzij dealer_hits_soft_17=True).\"\"\"\n    while True:\n        total, soft = hand_value(STATE.dealer_hand)\n        if total < 17:\n            deal_card(STATE.dealer_hand)\n            continue\n        if total == 17 and soft and STATE.config.dealer_hits_soft_17:\n            deal_card(STATE.dealer_hand)\n            continue",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "resolve_outcome",
+        "kind": 2,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "def resolve_outcome(initial_check: bool = False) -> RoundResult:\n    \"\"\"Bepaalt resultaat. Bij initial_check: check blackjacks; anders normale afronding.\"\"\"\n    bet = STATE.current_bet\n    player_total, _ = hand_value(STATE.player_hand)\n    dealer_total, _ = hand_value(STATE.dealer_hand)\n    if initial_check:\n        player_bj = is_blackjack(STATE.player_hand)\n        dealer_bj = is_blackjack(STATE.dealer_hand)\n        if player_bj and dealer_bj:\n            # Push: inzet terug",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "init_game",
+        "kind": 2,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "def init_game(data: InitGameInput) -> ActionResult:\n    \"\"\"Start nieuw spel met config (credits, #decks, bj payout, dealer soft17-gedrag).\"\"\"\n    global STATE\n    STATE = GameState(\n        credits=data.starting_credits,\n        shoe=build_shoe(data.num_decks),\n        discard=[],\n        config=GameConfig(**data.dict()),\n    )\n    # reset reveal",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "add_credits",
+        "kind": 2,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "def add_credits(data: AddCreditsInput) -> ActionResult:\n    \"\"\"Voeg credits toe.\"\"\"\n    STATE.credits += data.amount\n    return ActionResult(state=STATE.visible_state(), message=f\"{data.amount} credits toegevoegd.\")\n@mcp.tool()\ndef get_state() -> ActionResult:\n    \"\"\"Huidige zichtbare state (dealer hole verborgen in-ronde, volledig gereveald na ronde).\"\"\"\n    return ActionResult(state=STATE.visible_state(), message=\"OK\")\n@mcp.tool()\ndef reset() -> ActionResult:",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "get_state",
+        "kind": 2,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "def get_state() -> ActionResult:\n    \"\"\"Huidige zichtbare state (dealer hole verborgen in-ronde, volledig gereveald na ronde).\"\"\"\n    return ActionResult(state=STATE.visible_state(), message=\"OK\")\n@mcp.tool()\ndef reset() -> ActionResult:\n    \"\"\"Reset spel: credits=0, nieuwe shoe, wis laatste reveal.\"\"\"\n    global STATE\n    cfg = STATE.config\n    STATE = GameState(\n        credits=0,",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "reset",
+        "kind": 2,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "def reset() -> ActionResult:\n    \"\"\"Reset spel: credits=0, nieuwe shoe, wis laatste reveal.\"\"\"\n    global STATE\n    cfg = STATE.config\n    STATE = GameState(\n        credits=0,\n        shoe=build_shoe(cfg.num_decks),\n        discard=[],\n        config=cfg,\n    )",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "place_bet",
+        "kind": 2,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "def place_bet(data: PlaceBetInput) -> ActionResult:\n    \"\"\"\n    Plaats inzet en deel startkaarten uit.\n    - Trekt inzet direct van credits af.\n    - Dealt speler 2, dealer 2 (1 up, 1 hole).\n    - Controleert blackjack(s) en rondt zo nodig af.\n    \"\"\"\n    if STATE.in_round:\n        return ActionResult(state=STATE.visible_state(), message=\"Ronde loopt al.\")\n    if data.amount > STATE.credits:",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "hit",
+        "kind": 2,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "def hit() -> ActionResult:\n    \"\"\"Neem een kaart. Bij bust -> ronde eindigt. Anders blijft ronde lopen.\"\"\"\n    if not STATE.in_round:\n        return ActionResult(state=STATE.visible_state(), message=\"Geen actieve ronde.\")\n    deal_card(STATE.player_hand)\n    total, _ = hand_value(STATE.player_hand)\n    STATE.can_double = False\n    if total > 21:\n        res = resolve_outcome(initial_check=False)\n        return ActionResult(",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "stand",
+        "kind": 2,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "def stand() -> ActionResult:\n    \"\"\"Speler past; dealer speelt en ronde wordt afgerekend (reveal dealer-hand).\"\"\"\n    if not STATE.in_round:\n        return ActionResult(state=STATE.visible_state(), message=\"Geen actieve ronde.\")\n    STATE.can_double = False\n    dealer_play()\n    res = resolve_outcome(initial_check=False)\n    return ActionResult(\n        state=STATE.visible_state(),\n        message=f\"Ronde afgerond: {res.outcome} (payout {res.payout}).\"",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "double_down",
+        "kind": 2,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "def double_down() -> ActionResult:\n    \"\"\"\n    Verdubbel inzet, neem precies 1 kaart en sta vervolgens automatisch.\n    Alleen toegestaan als eerste actie (can_double=True) en als credits toereikend zijn.\n    \"\"\"\n    if not STATE.in_round:\n        return ActionResult(state=STATE.visible_state(), message=\"Geen actieve ronde.\")\n    if not STATE.can_double:\n        raise ValueError(\"Double down kan nu niet (alleen direct na de deal).\")\n    if STATE.credits < STATE.current_bet:",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "mcp",
+        "kind": 5,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "mcp = FastMCP(\"blackjack\")\n# ----------------------------\n# Kaarten & helpers\n# ----------------------------\nSUITS = [\"♠\", \"♥\", \"♦\", \"♣\"]\nRANKS = [\"A\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"J\", \"Q\", \"K\"]\ndef build_shoe(num_decks: int) -> List[str]:\n    deck = [f\"{r}{s}\" for r in RANKS for s in SUITS]\n    shoe = deck * num_decks\n    random.shuffle(shoe)",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "SUITS",
+        "kind": 5,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "SUITS = [\"♠\", \"♥\", \"♦\", \"♣\"]\nRANKS = [\"A\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"J\", \"Q\", \"K\"]\ndef build_shoe(num_decks: int) -> List[str]:\n    deck = [f\"{r}{s}\" for r in RANKS for s in SUITS]\n    shoe = deck * num_decks\n    random.shuffle(shoe)\n    return shoe\ndef hand_value(cards: List[str]) -> Tuple[int, bool]:\n    \"\"\"Return (best_value, is_soft). Aces kunnen 1 of 11 zijn.\"\"\"\n    values = []",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "RANKS",
+        "kind": 5,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "RANKS = [\"A\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"10\", \"J\", \"Q\", \"K\"]\ndef build_shoe(num_decks: int) -> List[str]:\n    deck = [f\"{r}{s}\" for r in RANKS for s in SUITS]\n    shoe = deck * num_decks\n    random.shuffle(shoe)\n    return shoe\ndef hand_value(cards: List[str]) -> Tuple[int, bool]:\n    \"\"\"Return (best_value, is_soft). Aces kunnen 1 of 11 zijn.\"\"\"\n    values = []\n    aces = 0",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "STATE",
+        "kind": 5,
+        "importPath": "demo.mcp_blackjack",
+        "description": "demo.mcp_blackjack",
+        "peekOfCode": "STATE = GameState(credits=0)\n# ----------------------------\n# Schemas (inputs/outputs)\n# ----------------------------\nclass InitGameInput(GameConfig):\n    pass\nclass AddCreditsInput(BaseModel):\n    amount: conint(gt=0) = Field(..., description=\"Credits toevoegen (>0)\")\nclass PlaceBetInput(BaseModel):\n    amount: conint(gt=0) = Field(..., description=\"Inzet (>0)\")",
+        "detail": "demo.mcp_blackjack",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_markdown",
+        "kind": 2,
+        "importPath": "demo.mcp_fetch_httpx",
+        "description": "demo.mcp_fetch_httpx",
+        "peekOfCode": "def fetch_markdown(url: str, timeout_sec: float = 15.0, max_chars: int = 4000) -> dict:\n    with httpx.Client(follow_redirects=True, timeout=timeout_sec) as client:\n        resp = client.get(url)\n        resp.raise_for_status()\n        text = md(resp.text)\n    if len(text) > max_chars:\n        text = text[:max_chars] + \"\\n\\n[...afgekapt voor demo...]\\n\"\n    return {\"content\": [{\"type\": \"text\", \"text\": text}]}\nif __name__ == \"__main__\":\n    app.run()",
+        "detail": "demo.mcp_fetch_httpx",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "demo.mcp_fetch_httpx",
+        "description": "demo.mcp_fetch_httpx",
+        "peekOfCode": "app = FastMCP(name=\"fetch-md-httpx\", version=\"0.1.0\")\n@app.tool()\ndef fetch_markdown(url: str, timeout_sec: float = 15.0, max_chars: int = 4000) -> dict:\n    with httpx.Client(follow_redirects=True, timeout=timeout_sec) as client:\n        resp = client.get(url)\n        resp.raise_for_status()\n        text = md(resp.text)\n    if len(text) > max_chars:\n        text = text[:max_chars] + \"\\n\\n[...afgekapt voor demo...]\\n\"\n    return {\"content\": [{\"type\": \"text\", \"text\": text}]}",
+        "detail": "demo.mcp_fetch_httpx",
+        "documentation": {}
+    },
+    {
+        "label": "get_collections",
+        "kind": 2,
+        "importPath": "demo.mcp_knmi_api",
+        "description": "demo.mcp_knmi_api",
+        "peekOfCode": "def get_collections() -> dict:\n    \"\"\"Haal alle beschikbare KNMI weather collections op\n    Beschikbare collecties:\n    - 'observations-1-minute': 1-minuut observaties (2024-heden)  \n    - 'observations-10-minute': 10-minuut observaties (2012-heden)\n    - 'observations-hourly': Uurlijkse observaties (1951-heden)\n    - 'daily-in-situ-meteorological-observations-validated': Dagelijkse observaties gevalideerd (1901-heden) ⭐ AANBEVOLEN\n    - 'Tg1_grid': Temperatuur grid data (1951-heden)\n    - 'Rd1_grid': Neerslag grid data (1951-heden) \n    - 'EV24_grid': Verdamping grid data (1951-heden)",
+        "detail": "demo.mcp_knmi_api",
+        "documentation": {}
+    },
+    {
+        "label": "get_locations",
+        "kind": 2,
+        "importPath": "demo.mcp_knmi_api",
+        "description": "demo.mcp_knmi_api",
+        "peekOfCode": "def get_locations(collection_id: str = \"daily-in-situ-meteorological-observations-validated\") -> dict:\n    \"\"\"Haal alle weerstation locaties op voor een collectie\n    Args:\n        collection_id: Collectie ID (zie get_collections voor opties)\n    Populaire collection_ids:\n    - 'daily-in-situ-meteorological-observations-validated': Dagelijkse data (AANBEVOLEN)\n    - 'observations-10-minute': 10-minuut real-time data\n    - 'observations-hourly': Uurlijkse gevalideerde data\n    Belangrijke station_ids (location_ids):\n    - '06260': De Bilt (KNMI hoofdstation)",
+        "detail": "demo.mcp_knmi_api",
+        "documentation": {}
+    },
+    {
+        "label": "get_weather_data",
+        "kind": 2,
+        "importPath": "demo.mcp_knmi_api",
+        "description": "demo.mcp_knmi_api",
+        "peekOfCode": "def get_weather_data(\n    collection_id: str = \"daily-in-situ-meteorological-observations-validated\",\n    location_id: str = \"06380\",  # Maastricht\n    datetime_range: str = \"2000-01-01/2025-01-01\",\n    parameter_name: str = \"TG\"  # Daily mean temperature\n) -> dict:\n    \"\"\"Haal weerdata op voor een specifiek station en periode\n    Args:\n        collection_id: Collectie ID (zie get_collections)\n        location_id: Station ID (zie get_locations) ",
+        "detail": "demo.mcp_knmi_api",
+        "documentation": {}
+    },
+    {
+        "label": "API_KEY",
+        "kind": 5,
+        "importPath": "demo.mcp_knmi_api",
+        "description": "demo.mcp_knmi_api",
+        "peekOfCode": "API_KEY = \"eyJvcmciOiI1ZTU1NGUxOTI3NGE5NjAwMDEyYTNlYjEiLCJpZCI6IjMwZmU0ZWVjNjJkODQzOWRiZTMyZGNlZjAzNWNhNDVmIiwiaCI6Im11cm11cjEyOCJ9\"\nBASE_URL = \"https://api.dataplatform.knmi.nl/edr/v1\"\n# Maak een simpele MCP server\nmcp = FastMCP(\"knmi-weather\")\n@mcp.tool()\ndef get_collections() -> dict:\n    \"\"\"Haal alle beschikbare KNMI weather collections op\n    Beschikbare collecties:\n    - 'observations-1-minute': 1-minuut observaties (2024-heden)  \n    - 'observations-10-minute': 10-minuut observaties (2012-heden)",
+        "detail": "demo.mcp_knmi_api",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_URL",
+        "kind": 5,
+        "importPath": "demo.mcp_knmi_api",
+        "description": "demo.mcp_knmi_api",
+        "peekOfCode": "BASE_URL = \"https://api.dataplatform.knmi.nl/edr/v1\"\n# Maak een simpele MCP server\nmcp = FastMCP(\"knmi-weather\")\n@mcp.tool()\ndef get_collections() -> dict:\n    \"\"\"Haal alle beschikbare KNMI weather collections op\n    Beschikbare collecties:\n    - 'observations-1-minute': 1-minuut observaties (2024-heden)  \n    - 'observations-10-minute': 10-minuut observaties (2012-heden)\n    - 'observations-hourly': Uurlijkse observaties (1951-heden)",
+        "detail": "demo.mcp_knmi_api",
+        "documentation": {}
+    },
+    {
+        "label": "mcp",
+        "kind": 5,
+        "importPath": "demo.mcp_knmi_api",
+        "description": "demo.mcp_knmi_api",
+        "peekOfCode": "mcp = FastMCP(\"knmi-weather\")\n@mcp.tool()\ndef get_collections() -> dict:\n    \"\"\"Haal alle beschikbare KNMI weather collections op\n    Beschikbare collecties:\n    - 'observations-1-minute': 1-minuut observaties (2024-heden)  \n    - 'observations-10-minute': 10-minuut observaties (2012-heden)\n    - 'observations-hourly': Uurlijkse observaties (1951-heden)\n    - 'daily-in-situ-meteorological-observations-validated': Dagelijkse observaties gevalideerd (1901-heden) ⭐ AANBEVOLEN\n    - 'Tg1_grid': Temperatuur grid data (1951-heden)",
+        "detail": "demo.mcp_knmi_api",
+        "documentation": {}
+    },
+    {
+        "label": "query_knmi_noordzee_weerstation",
+        "kind": 2,
+        "importPath": "demo.mcp_knmi_local",
+        "description": "demo.mcp_knmi_local",
+        "peekOfCode": "def query_knmi_noordzee_weerstation(\n        sql: Annotated[str, Field(description=\"Read-only SELECT SQL query\")],\n        limit: Annotated[int, Field(description=\"Maximum number of rows to return\", ge=1, le=MAX_LIMIT)] = DEFAULT_LIMIT,\n        offset: Annotated[int, Field(description=\"Row offset for pagination\", ge=0)] = 0\n) -> dict:\n    \"\"\"\n    Voer een read-only SELECT uit op de tabel `etmgeg_320` met dagelijkse meteorologische metingen\n    van KNMI-weerstation 320 (De Bilt).\n    Beschikbare kolommen en betekenis (eenheden conform KNMI-formaat):\n    - STN        : Stationnummer (320 = De Bilt)",
+        "detail": "demo.mcp_knmi_local",
+        "documentation": {}
+    },
+    {
+        "label": "line_chart_sql",
+        "kind": 2,
+        "importPath": "demo.mcp_knmi_local",
+        "description": "demo.mcp_knmi_local",
+        "peekOfCode": "def line_chart_sql(\n        sql: str,\n        x_col: str,\n        y_col: str,\n        title: Optional[str] = None\n) -> Dict[str, Any]:\n    \"\"\"\n    Maak een **lijnchart** (PNG, base64) vanuit een **read-only SELECT** op de SQLite-db.\n    Gebruik op de KNMI-tabel `etmgeg_320` (dagmetingen).\n    Voorbeeld: gemiddelde temperatuur per maand:",
+        "detail": "demo.mcp_knmi_local",
+        "documentation": {}
+    },
+    {
+        "label": "summarize_temperature",
+        "kind": 2,
+        "importPath": "demo.mcp_knmi_local",
+        "description": "demo.mcp_knmi_local",
+        "peekOfCode": "def summarize_temperature(\n        start_date: Annotated[str, Field(description=\"Start date in 'YYYYMMDD' format\", pattern=r\"^\\d{8}$\")],\n        end_date: Annotated[str, Field(description=\"End date in 'YYYYMMDD' format\", pattern=r\"^\\d{8}$\")]\n) -> Dict[str, Any]:\n    \"\"\"\n    Compute summary temperature statistics (average, minimum, and maximum) for the daily temperature\n    between `start_date` and `end_date` inclusive. Temperatures are returned in degrees Celsius (°C).\n    \"\"\"\n    if end_date < start_date:\n        return {\"error\": \"end_date must be greater than or equal to start_date.\"}",
+        "detail": "demo.mcp_knmi_local",
+        "documentation": {}
+    },
+    {
+        "label": "mcp",
+        "kind": 5,
+        "importPath": "demo.mcp_knmi_local",
+        "description": "demo.mcp_knmi_local",
+        "peekOfCode": "mcp = FastMCP(\"db-tools\")\n# Demo DB\nconn = sqlite3.connect(\"data/knmi_etmgeg_320.sqlite\", check_same_thread=False)\nconn.row_factory = sqlite3.Row\nALLOWED_TABLES = {\"etmgeg_320\"}\nMAX_LIMIT = 1000\nDEFAULT_LIMIT = 200\ndef _is_safe_select(sql: str) -> bool:\n    s = sql.strip().lower()\n    return s.startswith(\"select\") and \"pragma\" not in s and \";\" not in s",
+        "detail": "demo.mcp_knmi_local",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "kind": 5,
+        "importPath": "demo.mcp_knmi_local",
+        "description": "demo.mcp_knmi_local",
+        "peekOfCode": "conn = sqlite3.connect(\"data/knmi_etmgeg_320.sqlite\", check_same_thread=False)\nconn.row_factory = sqlite3.Row\nALLOWED_TABLES = {\"etmgeg_320\"}\nMAX_LIMIT = 1000\nDEFAULT_LIMIT = 200\ndef _is_safe_select(sql: str) -> bool:\n    s = sql.strip().lower()\n    return s.startswith(\"select\") and \"pragma\" not in s and \";\" not in s\ndef _enforce_limit(sql: str, limit: int) -> str:\n    return sql if \" limit \" in sql.lower() else f\"{sql}\\nLIMIT {limit}\"",
+        "detail": "demo.mcp_knmi_local",
+        "documentation": {}
+    },
+    {
+        "label": "conn.row_factory",
+        "kind": 5,
+        "importPath": "demo.mcp_knmi_local",
+        "description": "demo.mcp_knmi_local",
+        "peekOfCode": "conn.row_factory = sqlite3.Row\nALLOWED_TABLES = {\"etmgeg_320\"}\nMAX_LIMIT = 1000\nDEFAULT_LIMIT = 200\ndef _is_safe_select(sql: str) -> bool:\n    s = sql.strip().lower()\n    return s.startswith(\"select\") and \"pragma\" not in s and \";\" not in s\ndef _enforce_limit(sql: str, limit: int) -> str:\n    return sql if \" limit \" in sql.lower() else f\"{sql}\\nLIMIT {limit}\"\n@mcp.tool()",
+        "detail": "demo.mcp_knmi_local",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_TABLES",
+        "kind": 5,
+        "importPath": "demo.mcp_knmi_local",
+        "description": "demo.mcp_knmi_local",
+        "peekOfCode": "ALLOWED_TABLES = {\"etmgeg_320\"}\nMAX_LIMIT = 1000\nDEFAULT_LIMIT = 200\ndef _is_safe_select(sql: str) -> bool:\n    s = sql.strip().lower()\n    return s.startswith(\"select\") and \"pragma\" not in s and \";\" not in s\ndef _enforce_limit(sql: str, limit: int) -> str:\n    return sql if \" limit \" in sql.lower() else f\"{sql}\\nLIMIT {limit}\"\n@mcp.tool()\ndef query_knmi_noordzee_weerstation(",
+        "detail": "demo.mcp_knmi_local",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_LIMIT",
+        "kind": 5,
+        "importPath": "demo.mcp_knmi_local",
+        "description": "demo.mcp_knmi_local",
+        "peekOfCode": "MAX_LIMIT = 1000\nDEFAULT_LIMIT = 200\ndef _is_safe_select(sql: str) -> bool:\n    s = sql.strip().lower()\n    return s.startswith(\"select\") and \"pragma\" not in s and \";\" not in s\ndef _enforce_limit(sql: str, limit: int) -> str:\n    return sql if \" limit \" in sql.lower() else f\"{sql}\\nLIMIT {limit}\"\n@mcp.tool()\ndef query_knmi_noordzee_weerstation(\n        sql: Annotated[str, Field(description=\"Read-only SELECT SQL query\")],",
+        "detail": "demo.mcp_knmi_local",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_LIMIT",
+        "kind": 5,
+        "importPath": "demo.mcp_knmi_local",
+        "description": "demo.mcp_knmi_local",
+        "peekOfCode": "DEFAULT_LIMIT = 200\ndef _is_safe_select(sql: str) -> bool:\n    s = sql.strip().lower()\n    return s.startswith(\"select\") and \"pragma\" not in s and \";\" not in s\ndef _enforce_limit(sql: str, limit: int) -> str:\n    return sql if \" limit \" in sql.lower() else f\"{sql}\\nLIMIT {limit}\"\n@mcp.tool()\ndef query_knmi_noordzee_weerstation(\n        sql: Annotated[str, Field(description=\"Read-only SELECT SQL query\")],\n        limit: Annotated[int, Field(description=\"Maximum number of rows to return\", ge=1, le=MAX_LIMIT)] = DEFAULT_LIMIT,",
+        "detail": "demo.mcp_knmi_local",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "demo.mcp_meteo",
+        "description": "demo.mcp_meteo",
+        "peekOfCode": "response = httpx.get(\"https://raw.githubusercontent.com/open-meteo/open-meteo/main/openapi.yml\")\nspec = yaml.safe_load(response.text)\nmcp = FastMCP.from_openapi(\n    openapi_spec=spec,\n    client=httpx.AsyncClient(base_url='https://api.open-meteo.com')\n)\nif __name__ == \"__main__\":\n    mcp.run()",
+        "detail": "demo.mcp_meteo",
+        "documentation": {}
+    },
+    {
+        "label": "spec",
+        "kind": 5,
+        "importPath": "demo.mcp_meteo",
+        "description": "demo.mcp_meteo",
+        "peekOfCode": "spec = yaml.safe_load(response.text)\nmcp = FastMCP.from_openapi(\n    openapi_spec=spec,\n    client=httpx.AsyncClient(base_url='https://api.open-meteo.com')\n)\nif __name__ == \"__main__\":\n    mcp.run()",
+        "detail": "demo.mcp_meteo",
+        "documentation": {}
+    },
+    {
+        "label": "mcp",
+        "kind": 5,
+        "importPath": "demo.mcp_meteo",
+        "description": "demo.mcp_meteo",
+        "peekOfCode": "mcp = FastMCP.from_openapi(\n    openapi_spec=spec,\n    client=httpx.AsyncClient(base_url='https://api.open-meteo.com')\n)\nif __name__ == \"__main__\":\n    mcp.run()",
+        "detail": "demo.mcp_meteo",
+        "documentation": {}
+    },
+    {
+        "label": "GameState",
+        "kind": 6,
+        "importPath": "demo.mcp_slotmachine",
+        "description": "demo.mcp_slotmachine",
+        "peekOfCode": "class GameState(BaseModel):\n    credits: int = 0\n    spins: int = 0\n    total_spent: int = 0\n    total_earned: int = 0\n    last_reels: Optional[Tuple[str, str, str]] = None\n    last_score: Optional[int] = None\n    last_delta: Optional[int] = None  # earned - cost\n# Eenvoudig globale serverstate voor demo.\nSTATE = GameState(credits=0)",
+        "detail": "demo.mcp_slotmachine",
+        "documentation": {}
+    },
+    {
+        "label": "InitGameInput",
+        "kind": 6,
+        "importPath": "demo.mcp_slotmachine",
+        "description": "demo.mcp_slotmachine",
+        "peekOfCode": "class InitGameInput(BaseModel):\n    starting_credits: conint(ge=0) = Field(10, description=\"Starttegoed in credits\")\nclass AddCreditsInput(BaseModel):\n    amount: conint(gt=0) = Field(..., description=\"Aantal credits om toe te voegen (>0)\")\nclass SpinResult(BaseModel):\n    reels: Tuple[str, str, str]\n    score: int\n    cost: int\n    earned: int\n    delta: int",
+        "detail": "demo.mcp_slotmachine",
+        "documentation": {}
+    },
+    {
+        "label": "AddCreditsInput",
+        "kind": 6,
+        "importPath": "demo.mcp_slotmachine",
+        "description": "demo.mcp_slotmachine",
+        "peekOfCode": "class AddCreditsInput(BaseModel):\n    amount: conint(gt=0) = Field(..., description=\"Aantal credits om toe te voegen (>0)\")\nclass SpinResult(BaseModel):\n    reels: Tuple[str, str, str]\n    score: int\n    cost: int\n    earned: int\n    delta: int\n    balance: int\n# ----------------------------",
+        "detail": "demo.mcp_slotmachine",
+        "documentation": {}
+    },
+    {
+        "label": "SpinResult",
+        "kind": 6,
+        "importPath": "demo.mcp_slotmachine",
+        "description": "demo.mcp_slotmachine",
+        "peekOfCode": "class SpinResult(BaseModel):\n    reels: Tuple[str, str, str]\n    score: int\n    cost: int\n    earned: int\n    delta: int\n    balance: int\n# ----------------------------\n# Tools\n# ----------------------------",
+        "detail": "demo.mcp_slotmachine",
+        "documentation": {}
+    },
+    {
+        "label": "score_reels",
+        "kind": 2,
+        "importPath": "demo.mcp_slotmachine",
+        "description": "demo.mcp_slotmachine",
+        "peekOfCode": "def score_reels(reels: Tuple[str, str, str]) -> int:\n    r1, r2, r3 = reels\n    if (r1, r2, r3) == (\"💎\", \"💎\", \"💎\"):\n        return 100\n    if (r1, r2, r3) == (\"🍒\", \"🍒\", \"🍒\"):\n        return 10\n    if (r1, r2, r3) == (\"🍇\", \"🍇\", \"🍇\"):\n        return 5\n    if (r1, r2, r3) == (\"🍊\", \"🍊\", \"🍊\"):\n        return 3",
+        "detail": "demo.mcp_slotmachine",
+        "documentation": {}
+    },
+    {
+        "label": "payout_for_score",
+        "kind": 2,
+        "importPath": "demo.mcp_slotmachine",
+        "description": "demo.mcp_slotmachine",
+        "peekOfCode": "def payout_for_score(score: int) -> int:\n    return score\n# ----------------------------\n# State & schemas\n# ----------------------------\nclass GameState(BaseModel):\n    credits: int = 0\n    spins: int = 0\n    total_spent: int = 0\n    total_earned: int = 0",
+        "detail": "demo.mcp_slotmachine",
+        "documentation": {}
+    },
+    {
+        "label": "init_game",
+        "kind": 2,
+        "importPath": "demo.mcp_slotmachine",
+        "description": "demo.mcp_slotmachine",
+        "peekOfCode": "def init_game(data: InitGameInput) -> GameState:\n    \"\"\"\n    Start een nieuw spel met 'starting_credits'.\n    \"\"\"\n    global STATE\n    STATE = GameState(credits=data.starting_credits)\n    return STATE\n@mcp.tool()\ndef add_credits(data: AddCreditsInput) -> GameState:\n    \"\"\"",
+        "detail": "demo.mcp_slotmachine",
+        "documentation": {}
+    },
+    {
+        "label": "add_credits",
+        "kind": 2,
+        "importPath": "demo.mcp_slotmachine",
+        "description": "demo.mcp_slotmachine",
+        "peekOfCode": "def add_credits(data: AddCreditsInput) -> GameState:\n    \"\"\"\n    Voeg credits toe aan het huidige spel.\n    \"\"\"\n    STATE.credits += data.amount\n    return STATE\n@mcp.tool()\ndef get_state() -> GameState:\n    \"\"\"\n    Geef de huidige spelstatus terug.",
+        "detail": "demo.mcp_slotmachine",
+        "documentation": {}
+    },
+    {
+        "label": "get_state",
+        "kind": 2,
+        "importPath": "demo.mcp_slotmachine",
+        "description": "demo.mcp_slotmachine",
+        "peekOfCode": "def get_state() -> GameState:\n    \"\"\"\n    Geef de huidige spelstatus terug.\n    \"\"\"\n    return STATE\n@mcp.tool()\ndef reset() -> GameState:\n    \"\"\"\n    Reset het spel naar 0 credits en leegt de laatste resultaten.\n    \"\"\"",
+        "detail": "demo.mcp_slotmachine",
+        "documentation": {}
+    },
+    {
+        "label": "reset",
+        "kind": 2,
+        "importPath": "demo.mcp_slotmachine",
+        "description": "demo.mcp_slotmachine",
+        "peekOfCode": "def reset() -> GameState:\n    \"\"\"\n    Reset het spel naar 0 credits en leegt de laatste resultaten.\n    \"\"\"\n    global STATE\n    STATE = GameState(credits=0)\n    return STATE\n@mcp.tool()\ndef spin() -> SpinResult:\n    \"\"\"",
+        "detail": "demo.mcp_slotmachine",
+        "documentation": {}
+    },
+    {
+        "label": "spin",
+        "kind": 2,
+        "importPath": "demo.mcp_slotmachine",
+        "description": "demo.mcp_slotmachine",
+        "peekOfCode": "def spin() -> SpinResult:\n    \"\"\"\n    Draai de slotmachine (kost credits) en ontvang eventuele uitbetaling.\n    \"\"\"\n    if STATE.credits < SPIN_COST:\n        # In MCP wil je liever geen exceptions; maar voor duidelijkheid:\n        raise ValueError(f\"Onvoldoende credits ({STATE.credits}) om te spinnen. Kosten: {SPIN_COST}\")\n    # Trek kosten af\n    STATE.credits -= SPIN_COST\n    STATE.total_spent += SPIN_COST",
+        "detail": "demo.mcp_slotmachine",
+        "documentation": {}
+    },
+    {
+        "label": "mcp",
+        "kind": 5,
+        "importPath": "demo.mcp_slotmachine",
+        "description": "demo.mcp_slotmachine",
+        "peekOfCode": "mcp = FastMCP(\"slot-machine\")\n# ----------------------------\n# Game config\n# ----------------------------\nSYMBOLS = [\"◻️\", \"◻️\", \"◻️\", \"🍒\", \"🍋\", \"🍊\", \"🍇\", \"💎\"]\nSPIN_COST = 2  # kosten per spin (credits)\n# Score zoals in je Swift-voorbeeld\ndef score_reels(reels: Tuple[str, str, str]) -> int:\n    r1, r2, r3 = reels\n    if (r1, r2, r3) == (\"💎\", \"💎\", \"💎\"):",
+        "detail": "demo.mcp_slotmachine",
+        "documentation": {}
+    },
+    {
+        "label": "SYMBOLS",
+        "kind": 5,
+        "importPath": "demo.mcp_slotmachine",
+        "description": "demo.mcp_slotmachine",
+        "peekOfCode": "SYMBOLS = [\"◻️\", \"◻️\", \"◻️\", \"🍒\", \"🍋\", \"🍊\", \"🍇\", \"💎\"]\nSPIN_COST = 2  # kosten per spin (credits)\n# Score zoals in je Swift-voorbeeld\ndef score_reels(reels: Tuple[str, str, str]) -> int:\n    r1, r2, r3 = reels\n    if (r1, r2, r3) == (\"💎\", \"💎\", \"💎\"):\n        return 100\n    if (r1, r2, r3) == (\"🍒\", \"🍒\", \"🍒\"):\n        return 10\n    if (r1, r2, r3) == (\"🍇\", \"🍇\", \"🍇\"):",
+        "detail": "demo.mcp_slotmachine",
+        "documentation": {}
+    },
+    {
+        "label": "SPIN_COST",
+        "kind": 5,
+        "importPath": "demo.mcp_slotmachine",
+        "description": "demo.mcp_slotmachine",
+        "peekOfCode": "SPIN_COST = 2  # kosten per spin (credits)\n# Score zoals in je Swift-voorbeeld\ndef score_reels(reels: Tuple[str, str, str]) -> int:\n    r1, r2, r3 = reels\n    if (r1, r2, r3) == (\"💎\", \"💎\", \"💎\"):\n        return 100\n    if (r1, r2, r3) == (\"🍒\", \"🍒\", \"🍒\"):\n        return 10\n    if (r1, r2, r3) == (\"🍇\", \"🍇\", \"🍇\"):\n        return 5",
+        "detail": "demo.mcp_slotmachine",
+        "documentation": {}
+    },
+    {
+        "label": "STATE",
+        "kind": 5,
+        "importPath": "demo.mcp_slotmachine",
+        "description": "demo.mcp_slotmachine",
+        "peekOfCode": "STATE = GameState(credits=0)\nclass InitGameInput(BaseModel):\n    starting_credits: conint(ge=0) = Field(10, description=\"Starttegoed in credits\")\nclass AddCreditsInput(BaseModel):\n    amount: conint(gt=0) = Field(..., description=\"Aantal credits om toe te voegen (>0)\")\nclass SpinResult(BaseModel):\n    reels: Tuple[str, str, str]\n    score: int\n    cost: int\n    earned: int",
+        "detail": "demo.mcp_slotmachine",
+        "documentation": {}
+    },
+    {
+        "label": "SolveInput",
+        "kind": 6,
+        "importPath": "demo.mcp_sympy",
+        "description": "demo.mcp_sympy",
+        "peekOfCode": "class SolveInput(BaseModel):\n    equation: str  # bijv \"x^2 - 4 = 0\"\n    symbol: str = \"x\"\n@mcp.tool()\ndef solve(data: SolveInput) -> list[str]:\n    \"\"\"\n    Los een vergelijking op naar 'symbol'.\n    Voorbeeld: {\"equation\":\"x^2 - 4 = 0\", \"symbol\":\"x\"}\n    \"\"\"\n    sym = sp.symbols(data.symbol)",
+        "detail": "demo.mcp_sympy",
+        "documentation": {}
+    },
+    {
+        "label": "simplify",
+        "kind": 2,
+        "importPath": "demo.mcp_sympy",
+        "description": "demo.mcp_sympy",
+        "peekOfCode": "def simplify(expr: str) -> str:\n    \"\"\"\n    Vereenvoudig een algebraïsche expressie.\n    Voorbeeld: \"3x + 5x - 2 + 7\"\n    \"\"\"\n    return str(sp.simplify(expr))\nclass SolveInput(BaseModel):\n    equation: str  # bijv \"x^2 - 4 = 0\"\n    symbol: str = \"x\"\n@mcp.tool()",
+        "detail": "demo.mcp_sympy",
+        "documentation": {}
+    },
+    {
+        "label": "solve",
+        "kind": 2,
+        "importPath": "demo.mcp_sympy",
+        "description": "demo.mcp_sympy",
+        "peekOfCode": "def solve(data: SolveInput) -> list[str]:\n    \"\"\"\n    Los een vergelijking op naar 'symbol'.\n    Voorbeeld: {\"equation\":\"x^2 - 4 = 0\", \"symbol\":\"x\"}\n    \"\"\"\n    sym = sp.symbols(data.symbol)\n    return [str(s) for s in sp.solve(sp.Eq(sp.sympify(data.equation.split('=')[0]),\n                                           sp.sympify(data.equation.split('=')[1])), sym)]\nif __name__ == \"__main__\":\n    mcp.run()",
+        "detail": "demo.mcp_sympy",
+        "documentation": {}
+    },
+    {
+        "label": "mcp",
+        "kind": 5,
+        "importPath": "demo.mcp_sympy",
+        "description": "demo.mcp_sympy",
+        "peekOfCode": "mcp = FastMCP(\"math\")\n@mcp.tool()\ndef simplify(expr: str) -> str:\n    \"\"\"\n    Vereenvoudig een algebraïsche expressie.\n    Voorbeeld: \"3x + 5x - 2 + 7\"\n    \"\"\"\n    return str(sp.simplify(expr))\nclass SolveInput(BaseModel):\n    equation: str  # bijv \"x^2 - 4 = 0\"",
+        "detail": "demo.mcp_sympy",
+        "documentation": {}
+    },
+    {
+        "label": "query_knmi",
+        "kind": 2,
+        "importPath": "knmi.mcp_knmi",
+        "description": "knmi.mcp_knmi",
+        "peekOfCode": "def query_knmi(sql):\n    \"\"\"Voer een (niet-gevalideerde) SQL-query uit op de voorbeeld-DB met KNMI-dagmetingen.\n    PoC: geen read-only check of whitelist. Gebruik met zorg. Opdrachten breiden dit uit.\n    Retourneert: { columns, rows, row_count, truncated, elapsed_ms }.\n    \"\"\"\n    t0 = time.time()\n    cur = conn.execute(sql.lower())\n    rows = cur.fetchall()\n    cols = [d[0] for d in cur.description] if cur.description else []\n    data = [[r[c] for c in cols] for r in rows]",
+        "detail": "knmi.mcp_knmi",
+        "documentation": {}
+    },
+    {
+        "label": "mcp",
+        "kind": 5,
+        "importPath": "knmi.mcp_knmi",
+        "description": "knmi.mcp_knmi",
+        "peekOfCode": "mcp = FastMCP(\"knmi-poc\")\n# NOTE: This PoC uses the example SQLite DB shipped in the repo.\n# When running from `workshop/knmi`, this relative path points to it.\nDB_PATH = \"./data/knmi_etmgeg_320.sqlite\"\nconn = sqlite3.connect(DB_PATH, check_same_thread=False)\nconn.row_factory = sqlite3.Row\n@mcp.tool()\ndef query_knmi(sql):\n    \"\"\"Voer een (niet-gevalideerde) SQL-query uit op de voorbeeld-DB met KNMI-dagmetingen.\n    PoC: geen read-only check of whitelist. Gebruik met zorg. Opdrachten breiden dit uit.",
+        "detail": "knmi.mcp_knmi",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PATH",
+        "kind": 5,
+        "importPath": "knmi.mcp_knmi",
+        "description": "knmi.mcp_knmi",
+        "peekOfCode": "DB_PATH = \"./data/knmi_etmgeg_320.sqlite\"\nconn = sqlite3.connect(DB_PATH, check_same_thread=False)\nconn.row_factory = sqlite3.Row\n@mcp.tool()\ndef query_knmi(sql):\n    \"\"\"Voer een (niet-gevalideerde) SQL-query uit op de voorbeeld-DB met KNMI-dagmetingen.\n    PoC: geen read-only check of whitelist. Gebruik met zorg. Opdrachten breiden dit uit.\n    Retourneert: { columns, rows, row_count, truncated, elapsed_ms }.\n    \"\"\"\n    t0 = time.time()",
+        "detail": "knmi.mcp_knmi",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "kind": 5,
+        "importPath": "knmi.mcp_knmi",
+        "description": "knmi.mcp_knmi",
+        "peekOfCode": "conn = sqlite3.connect(DB_PATH, check_same_thread=False)\nconn.row_factory = sqlite3.Row\n@mcp.tool()\ndef query_knmi(sql):\n    \"\"\"Voer een (niet-gevalideerde) SQL-query uit op de voorbeeld-DB met KNMI-dagmetingen.\n    PoC: geen read-only check of whitelist. Gebruik met zorg. Opdrachten breiden dit uit.\n    Retourneert: { columns, rows, row_count, truncated, elapsed_ms }.\n    \"\"\"\n    t0 = time.time()\n    cur = conn.execute(sql.lower())",
+        "detail": "knmi.mcp_knmi",
+        "documentation": {}
+    },
+    {
+        "label": "conn.row_factory",
+        "kind": 5,
+        "importPath": "knmi.mcp_knmi",
+        "description": "knmi.mcp_knmi",
+        "peekOfCode": "conn.row_factory = sqlite3.Row\n@mcp.tool()\ndef query_knmi(sql):\n    \"\"\"Voer een (niet-gevalideerde) SQL-query uit op de voorbeeld-DB met KNMI-dagmetingen.\n    PoC: geen read-only check of whitelist. Gebruik met zorg. Opdrachten breiden dit uit.\n    Retourneert: { columns, rows, row_count, truncated, elapsed_ms }.\n    \"\"\"\n    t0 = time.time()\n    cur = conn.execute(sql.lower())\n    rows = cur.fetchall()",
+        "detail": "knmi.mcp_knmi",
+        "documentation": {}
+    }
+]
