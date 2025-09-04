@@ -381,9 +381,14 @@ Alternatief met `uvx` en FastMCP‑CLI in dev‑modus:
       "command": "npx",
       "args": ["-y", "@modelcontextprotocol/server-playwright"]
     },
-    "mijn-fastmcp": {
-      "command": "uvx",
-      "args": ["fastmcp", "dev", "--app", "mcp_server.py"]
+    "knmi_local": {
+        "command": "/Users/maarten/.local/bin/uv",
+        "args": [
+          "--directory",
+          "/Users/maarten/Projects/mcp-demo/demo",
+          "run",
+          "mcp_knmi_local.py"
+        ]
     }
   }
 }
