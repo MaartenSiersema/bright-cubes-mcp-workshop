@@ -17,14 +17,14 @@ Onderdelen in deze map:
 - `knmi_mcp/` — minimale MCP-server met één tool.
 
 Snel starten (uv):
-1) Ga naar de map: `cd workshop/knmi`
+1) Ga naar de map: `cd knmi`
 2) Installeer dependencies: `uv sync`
 3) Start de MCP-server: `uv run knmi-mcp` (of `uv run python -m knmi_mcp.server`)
    - De server gebruikt de voorbeeld SQLite DB: `../../examples/data/knmi_etmgeg_320.sqlite`.
 4) Koppel je MCP-client (Claude Desktop, MCP Inspector, etc.).
 5) Werk de opdrachten in `ASSIGNMENTS.md` af; bouw validatie, charts, meerdere stations en (optioneel) DuckDB-ondersteuning stap voor stap in.
 
-Tip: Gebruik `examples/` als referentie; het PoC hier is bewust minimaal (geen type hints, geen validatie). Opdrachten vragen je o.a. om type hints, validatie, LIMIT/OFFSET-handling, visualisaties en (optioneel) overschakeling naar DuckDB te implementeren.
+Tip: Gebruik `demo/` als referentie; het PoC hier is bewust minimaal (geen type hints, geen validatie). Opdrachten vragen je o.a. om type hints, validatie, LIMIT/OFFSET-handling, visualisaties en (optioneel) overschakeling naar DuckDB te implementeren.
 
 Ideeën voor een licht competitief element zonder puntentelling:
 - “Eerste tot Level 3” badge: welk team levert als eerste een correcte trendanalyse (inclusief chart)?

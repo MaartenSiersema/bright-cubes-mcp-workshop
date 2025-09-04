@@ -321,12 +321,12 @@ Vraag door bij ambiguïteit.
 ## 12) Quickstart (uv)
 
 ```bash
-uv venv --python 3.11
-uv pip install fastmcp duckdb pydantic matplotlib
+uv init
+uv add fastmcp duckdb pydantic matplotlib
 uv run python mcp_server.py
 ```
 
-`pyproject.toml` (optioneel):
+`pyproject.toml`:
 ```toml
 [project]
 name = "mcp-server"

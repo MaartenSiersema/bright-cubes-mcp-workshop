@@ -25,3 +25,10 @@ De fastmcp package daarentegen is een losse, standalone distributie van diezelfd
 Kort gezegd: mcp[fastmcp] = compleet pakket inclusief CLI en protocol, fastmcp = lightweight install voor alleen de server-bouwkit.
 
 Let op dat de api voor beide libraries kan afwijken
+
+
+---
+Meer info:
+
+https://modelcontextprotocol.io/docs/getting-started/intro
+https://gofastmcp.com/getting-started/welcome
